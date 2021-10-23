@@ -1,0 +1,2 @@
+# fiq
+Təsvir Yoxdur
